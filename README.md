@@ -2,9 +2,10 @@
 
 `Currency converter` app helps you to convert one currency to another currency
 
-📸 Screens01            |  📸 Screens02
-:-------------------------:|:-------------------------:
-![Screenshot_20240329_073445](https://github.com/oybekjon94/currentConverter-jetpackCompose/assets/91370134/05de79bf-5fdb-4955-bd24-90e200872b14) | ![Screenshot_20240329_073542](https://github.com/oybekjon94/currentConverter-jetpackCompose/assets/91370134/0fadc3c8-a879-4bea-ba24-99e8a9da8c87)
+📸 Screens01            |  📸 Screens02  |  📸 Screens03
+:-------------------------:|:-------------------------:|:-------------------------:
+ ![Screenshot_20240329_081136](https://github.com/oybekjon94/currentConverter-jetpackCompose/assets/91370134/0a649d6b-fd77-4beb-8c0c-f424aea7ed14) | ![Screenshot_20240329_073445](https://github.com/oybekjon94/currentConverter-jetpackCompose/assets/91370134/05de79bf-5fdb-4955-bd24-90e200872b14) | ![Screenshot_20240329_073542](https://github.com/oybekjon94/currentConverter-jetpackCompose/assets/91370134/0fadc3c8-a879-4bea-ba24-99e8a9da8c87)
+
 
 ### 🏗️ Project Structure: 
 
